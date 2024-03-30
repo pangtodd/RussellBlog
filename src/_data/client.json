@@ -1,7 +1,15 @@
 {
     "name": "Mark Russell",
-    "Twitter:": "https://twitter.com/Manruss",
-    "Instagram": "https://www.instagram.com/manruss/",
-    "shop": "coming soon",
+    "email": "someting Different",
+    "phoneForTel": "none of your business",
+    "phoneFormatted": "I don't do phones",
+    "address": {
+        "lineOne": "Private",
+        "lineTwo": "private",
+        "city": "Portland",
+        "state": "OR",
+        "zip": "meh",
+        "mapLink": "nah"
+    },
     "domain": "https://www.markrussellbooks.com"
 }
